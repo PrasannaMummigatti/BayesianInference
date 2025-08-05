@@ -3,3 +3,6 @@
     Utils
     numpy
     scipy
+    seaborn
+    pandas
+    scikit-learn
