@@ -2,4 +2,4 @@
     matplotlib
     Utils
     numpy
-    scipy.stats
+    scipy
